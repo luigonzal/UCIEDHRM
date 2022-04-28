@@ -8,9 +8,12 @@ Zoterflow is a Human Resource Management and Staffing Randomizer Flask webapp de
 
 :Author:
   `Luis Gonzalez <https://www.lgonzal.com/>`_
+
 :Organization:
   Emergency Department. UCI Health
+
 :License: BSD 3-Clause
+
 :Version: 2022.4.28
 
 Requirements
@@ -28,5 +31,3 @@ References
 ----------
 1. uciwebauth: Python library to access dentiy management and authentication services at UCI.
 https://github.com/cgohlke/uciwebauth
-
-
