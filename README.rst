@@ -30,5 +30,5 @@ Revisions
 
 References
 ----------
-1. uciwebauth: Python library to access dentiy management and authentication services at UCI.
+1. uciwebauth: Python library to access identiy management and authentication services at UCI.
 https://github.com/cgohlke/uciwebauth
