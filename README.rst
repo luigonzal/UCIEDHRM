@@ -1,6 +1,7 @@
 Zoterflow
 =========
 Zoterflow is a Human Resource Management and Staffing Randomizer Flask webapp developed to supplament funcitonaly provided by API Labor Workx at UCI Health for the Emergency Department:
+
 1. Leverages OIT Webauth to validate UCInetIDs
 2. Leverages LDAP Directory Service to track staff competencies
 3. Imports API Labor Workx report to randomize and generate a daily schedules
